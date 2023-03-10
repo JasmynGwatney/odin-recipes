@@ -1,16 +1,17 @@
-html {
+html,
+* {
   background-color: #f4c95d;
 }
 h1 {
   color: #854d27;
   text-align: center;
+  font-family: serif;
 }
 .recipes {
-    background-color:#f4c95d;
-    margin: -5%;
-    padding: 15px;
+  background-color: #f4c95d;
+  margin: -5%;
+  padding: 15px;
 }
-
 a.one:link,
 a.one:visited {
   background-color: #854d27;
@@ -19,12 +20,46 @@ a.one:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-top: 3%;
+  margin-left: 34%;
+  position: fixed;
+  font-family: fantasy;
 }
 a.one:hover,
 a.one:active {
   background-color: #dd7230;
-  margin-left: auto;
-  margin-right: auto;
+}
+a.two:link,
+a.two:visited {
+  background-color: #854d27;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 31%;
+  margin-top: 20%;
+  position: fixed;
+  font-family: serif;
+}
+a.two:hover,
+a.two:active {
+  background-color: #dd7230;
+}
+a.three:link,
+a.three:visited {
+  background-color: #854d27;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 36%;
+  margin-top: 37%;
+  position: fixed;
+  font-family: serif;
+}
+a.three:hover,
+a.three:active {
+  background-color: #dd7230;
 }
