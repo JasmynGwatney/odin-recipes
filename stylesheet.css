@@ -1,0 +1,15 @@
+a.one:link, a.one:visited {
+background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: auto;
+  text-decoration: none;
+  display: inline-block;
+}
+a.one:hover,a.one:active {
+    background-color:red
+}
+body {
+    background-color: coral;
+    color: white;
+}
