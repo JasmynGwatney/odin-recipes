@@ -10,7 +10,6 @@ h1 {
 .recipes {
   background-color: #f4c95d;
   margin: 0 auto;
-  padding: 15px;
 }
 a.one:link,
 a.one:visited {
@@ -20,7 +19,7 @@ a.one:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin: 0 auto;
+  margin-left: 50%;
   position: relative;
   font-family: fantasy;
 }
@@ -36,7 +35,8 @@ a.two:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin: 0 auto;
+  margin-left:50%;
+  margin-top: 5%;
   position: relative;
   font-family: fantasy;
 }
@@ -52,7 +52,8 @@ a.three:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin: 0 auto;
+  margin-left: 50%;
+  margin-top: 5%;
   position: relative;
   font-family: fantasy;
 }
