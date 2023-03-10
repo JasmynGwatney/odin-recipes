@@ -1,15 +1,30 @@
-a.one:link, a.one:visited {
-background-color: #f44336;
+html {
+  background-color: #f4c95d;
+}
+h1 {
+  color: #854d27;
+  text-align: center;
+}
+.recipes {
+    background-color:#f4c95d;
+    margin: -5%;
+    padding: 15px;
+}
+
+a.one:link,
+a.one:visited {
+  background-color: #854d27;
   color: white;
   padding: 14px 25px;
-  text-align: auto;
+  text-align: center;
   text-decoration: none;
   display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
 }
-a.one:hover,a.one:active {
-    background-color:red
-}
-body {
-    background-color: coral;
-    color: white;
+a.one:hover,
+a.one:active {
+  background-color: #dd7230;
+  margin-left: auto;
+  margin-right: auto;
 }
