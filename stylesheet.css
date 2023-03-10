@@ -8,7 +8,7 @@ h1 {
 }
 .recipes {
     background-color:#f4c95d;
-    margin: auto;
+    margin: 0 auto;
     padding: 15px;
 }
 a.one:link,
@@ -21,7 +21,7 @@ a.one:visited {
   display: inline-block;
   margin-top: 3%;
   margin-left: 34%;
-  position: fixed;
+  position: relative;
   font-family:fantasy
 }
 a.one:hover,
@@ -37,8 +37,8 @@ a.two:link, a.two:visited {
     display: inline-block;
     margin-left: 31%;
     margin-top: 20%;
-    position: fixed;
-    font-family:serif;
+    position: relative;
+    font-family:fantasy;
 }
 a.two:hover, a.two:active {
     background-color:#dd7230;
@@ -51,9 +51,9 @@ a.three:link, a.three:visited {
     text-decoration: none;
     display: inline-block;
     margin-left: 36%;
-    margin-top: 37%;
-    position: fixed;
-    font-family:serif;
+    margin-top: 18%;
+    position: relative;
+    font-family:fantasy;
 }
 a.three:hover, a.three:active {
     background-color: #dd7230;
