@@ -19,7 +19,7 @@ a.one:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin-left: 50%;
+  margin-left: 40%;
   position: relative;
   font-family: fantasy;
 }
@@ -35,7 +35,7 @@ a.two:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin-left:50%;
+  margin-left: 40%;
   margin-top: 5%;
   position: relative;
   font-family: fantasy;
@@ -52,7 +52,7 @@ a.three:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin-left: 50%;
+  margin-left: 40%;
   margin-top: 5%;
   position: relative;
   font-family: fantasy;
