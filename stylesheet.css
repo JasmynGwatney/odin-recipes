@@ -3,13 +3,13 @@ html,
   background-color: #f4c95d;
 }
 h1 {
-  background: #ece9a8; 
+  background: #ece9a8;
   width: 133px;
   box-shadow: 0 0 5px 5px #ece9a8;
   color: #854d27;
   text-align: center;
   font-family: serif;
-  margin-left: 45%  
+  margin-left: 45%;
 }
 .recipes {
   background-color: #f4c95d;
@@ -37,7 +37,7 @@ a.two:link,
 a.two:visited {
   background-color: #854d27;
   color: white;
-  padding: 14px 12px;
+  padding: 14px 7px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
