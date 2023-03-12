@@ -3,9 +3,13 @@ html,
   background-color: #f4c95d;
 }
 h1 {
+  background: #ece9a8; 
+  width: 133px;
+  box-shadow: 0 0 5px 5px #ece9a8;
   color: #854d27;
   text-align: center;
   font-family: serif;
+  margin-left: 35%  
 }
 .recipes {
   background-color: #f4c95d;
@@ -13,15 +17,17 @@ h1 {
 }
 a.one:link,
 a.one:visited {
-  background-color: #854d27;
+  background: #854d27;
   color: white;
-  padding: 14px 25px;
+  padding: 14px 26px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin-left: 40%;
+  margin-left: 35%;
+  margin-top: 2%;
   position: relative;
   font-family: fantasy;
+  box-shadow: 0 0 10px 4px #854d27;
 }
 a.one:hover,
 a.one:active {
@@ -31,14 +37,15 @@ a.two:link,
 a.two:visited {
   background-color: #854d27;
   color: white;
-  padding: 14px 25px;
+  padding: 14px 12px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin-left: 40%;
+  margin-left: 35%;
   margin-top: 5%;
   position: relative;
   font-family: fantasy;
+  box-shadow: 0 0 10px 4px #854d27;
 }
 a.two:hover,
 a.two:active {
@@ -48,14 +55,15 @@ a.three:link,
 a.three:visited {
   background-color: #854d27;
   color: white;
-  padding: 14px 25px;
+  padding: 14px 40px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin-left: 40%;
+  margin-left: 35%;
   margin-top: 5%;
   position: relative;
   font-family: fantasy;
+  box-shadow: 0 0 10px 4px #854d27;
 }
 a.three:hover,
 a.three:active {
